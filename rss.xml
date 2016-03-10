@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Wi-Fi Ninjas]]></title>
+        <description><![CDATA[Wi-Fi Ninjas]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 10 Mar 2016 16:42:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wi-Fi: A Driver to Modernize Assisted Living with Life  Enhancing Care]]></title>
+            <description><![CDATA[<article><h1>Wi-Fi: A Driver to Modernize Assisted Living with Life  Enhancing Care</h1><p>Digital signage,
+location-based services, big data analytics, VoWi-Fi, Internet of Things,
+Machine-to-Machine, and heterogeneous cellular networks with Carrier Wi-Fi are
+some of the most interesting trends in the enterprise segment.</p></article>]]></description>
+            <link>undefinedwi-fi-a-driver-to-modernize-assisted-living-with-life-enha/index.html</link>
+            <guid isPermaLink="false">58be4812-cbb9-4f19-9722-e294b1a72c3d</guid>
+            <pubDate>Thu, 10 Mar 2016 16:42:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
