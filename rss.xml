@@ -2,17 +2,24 @@
     <channel>
         <title><![CDATA[Wi-Fi Ninjas]]></title>
         <description><![CDATA[Wi-Fi Ninjas]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wi-fi-ninjas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 16:42:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Mar 2016 16:43:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wi-fi-ninjas/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Can big screens cement the case for City and retail Wi-Fi?]]></title>
+            <description><![CDATA[<article><h1>Can big screens cement the case for City and retail Wi-Fi?</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a03b90b85585a4bd23a097bbba9383d6d537acce.jpg"></article>]]></description>
+            <link>https://thegrid.ai/wi-fi-ninjas/can-big-screens-cement-the-case-for-city-and-retail-wi-fi/index.html</link>
+            <guid isPermaLink="false">21cfbd3b-b658-4129-a9aa-fe930fce9f2b</guid>
+            <pubDate>Thu, 10 Mar 2016 16:43:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wi-Fi: A Driver to Modernize Assisted Living with Life  Enhancing Care]]></title>
             <description><![CDATA[<article><h1>Wi-Fi: A Driver to Modernize Assisted Living with Life  Enhancing Care</h1><p>Digital signage,
 location-based services, big data analytics, VoWi-Fi, Internet of Things,
 Machine-to-Machine, and heterogeneous cellular networks with Carrier Wi-Fi are
 some of the most interesting trends in the enterprise segment.</p></article>]]></description>
-            <link>undefinedwi-fi-a-driver-to-modernize-assisted-living-with-life-enha/index.html</link>
+            <link>https://thegrid.ai/wi-fi-ninjas/wi-fi-a-driver-to-modernize-assisted-living-with-life-enha/index.html</link>
             <guid isPermaLink="false">58be4812-cbb9-4f19-9722-e294b1a72c3d</guid>
             <pubDate>Thu, 10 Mar 2016 16:42:17 GMT</pubDate>
         </item>
